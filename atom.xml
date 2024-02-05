@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>星如雨月如歌</title>
   
-  <subtitle>网站仍在搭建中。。。</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <subtitle>生活角落</subtitle>
+  <link href="http://lyyhome.cn/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2024-02-04T08:32:35.151Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://lyyhome.cn/"/>
+  <updated>2024-02-04T09:07:59.488Z</updated>
+  <id>http://lyyhome.cn/</id>
   
   <author>
     <name>lyy</name>
@@ -17,19 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://example.com/2024/02/04/%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6/"/>
-    <id>http://example.com/2024/02/04/%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6/</id>
-    <published>2024-02-04T08:22:33.056Z</published>
-    <updated>2024-02-04T08:32:35.151Z</updated>
+    <title>test</title>
+    <link href="http://lyyhome.cn/2024/02/04/test/"/>
+    <id>http://lyyhome.cn/2024/02/04/test/</id>
+    <published>2024-02-04T09:05:47.000Z</published>
+    <updated>2024-02-04T09:07:59.488Z</updated>
     
-    <content type="html"><![CDATA[<p>#测试<br>date：<br>这是正文</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h1><h2 id="标2"><a href="#标2" class="headerlink" title="标2"></a>标2</h2><h3 id="标4"><a href="#标4" class="headerlink" title="标4"></a>标4</h3><p>正文部分<br>大别墅<em>test</em></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;#测试&lt;br&gt;date：&lt;br&gt;这是正文&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;h1 id=&quot;标题&quot;&gt;&lt;a href=&quot;#标题&quot; class=&quot;headerlink&quot; title=&quot;标题&quot;&gt;&lt;/a&gt;标题&lt;/h1&gt;&lt;h2 id=&quot;标2&quot;&gt;&lt;a href=&quot;#标2&quot; class=&quot;headerlink&quot; title=&quot;标2&quot;&gt;&lt;/a&gt;标2&lt;/h2&gt;&lt;h3 id</summary>
       
     
     
@@ -39,8 +38,8 @@
   
   <entry>
     <title>你好潘潘</title>
-    <link href="http://example.com/2024/01/31/%E4%BD%A0%E5%A5%BD%E6%BD%98%E6%BD%98/"/>
-    <id>http://example.com/2024/01/31/%E4%BD%A0%E5%A5%BD%E6%BD%98%E6%BD%98/</id>
+    <link href="http://lyyhome.cn/2024/01/31/%E4%BD%A0%E5%A5%BD%E6%BD%98%E6%BD%98/"/>
+    <id>http://lyyhome.cn/2024/01/31/%E4%BD%A0%E5%A5%BD%E6%BD%98%E6%BD%98/</id>
     <published>2024-01-31T15:56:24.000Z</published>
     <updated>2024-02-01T02:40:21.394Z</updated>
     
