@@ -6,7 +6,7 @@
   <link href="http://lyyhome.cn/atom.xml" rel="self"/>
   
   <link href="http://lyyhome.cn/"/>
-  <updated>2024-02-04T09:07:59.488Z</updated>
+  <updated>2024-02-12T14:10:30.650Z</updated>
   <id>http://lyyhome.cn/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新年新开始</title>
+    <link href="http://lyyhome.cn/2024/02/12/new/"/>
+    <id>http://lyyhome.cn/2024/02/12/new/</id>
+    <published>2024-02-12T14:03:35.000Z</published>
+    <updated>2024-02-12T14:10:30.650Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="新年快乐"><a href="#新年快乐" class="headerlink" title="新年快乐"></a>新年快乐</h1><p>今年早初三回来了，做实验，写论文，希望顺利毕业！！<br>之后更新折腾的东西</p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs java"><span class="hljs-built_in">this</span> is test code tell me<br></code></pre></td></tr></table></figure><p>ok</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;新年快乐&quot;&gt;&lt;a href=&quot;#新年快乐&quot; class=&quot;headerlink&quot; title=&quot;新年快乐&quot;&gt;&lt;/a&gt;新年快乐&lt;/h1&gt;&lt;p&gt;今年早初三回来了，做实验，写论文，希望顺利毕业！！&lt;br&gt;之后更新折腾的东西&lt;/p&gt;
+&lt;figure class=&quot;high</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>test</title>
@@ -29,27 +50,6 @@
       
       
     <summary type="html">&lt;h1 id=&quot;标题&quot;&gt;&lt;a href=&quot;#标题&quot; class=&quot;headerlink&quot; title=&quot;标题&quot;&gt;&lt;/a&gt;标题&lt;/h1&gt;&lt;h2 id=&quot;标2&quot;&gt;&lt;a href=&quot;#标2&quot; class=&quot;headerlink&quot; title=&quot;标2&quot;&gt;&lt;/a&gt;标2&lt;/h2&gt;&lt;h3 id</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>你好潘潘</title>
-    <link href="http://lyyhome.cn/2024/01/31/%E4%BD%A0%E5%A5%BD%E6%BD%98%E6%BD%98/"/>
-    <id>http://lyyhome.cn/2024/01/31/%E4%BD%A0%E5%A5%BD%E6%BD%98%E6%BD%98/</id>
-    <published>2024-01-31T15:56:24.000Z</published>
-    <updated>2024-02-01T02:40:21.394Z</updated>
-    
-    <content type="html"><![CDATA[<p>你好潘潘，<br>这是一个test文件<br>我在互联网的一头<br>向你致以最亲切的问候<br>潘医生辛苦啦<br>冬风过境霜满天<br>潘潘和我又一年~</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;你好潘潘，&lt;br&gt;这是一个test文件&lt;br&gt;我在互联网的一头&lt;br&gt;向你致以最亲切的问候&lt;br&gt;潘医生辛苦啦&lt;br&gt;冬风过境霜满天&lt;br&gt;潘潘和我又一年~&lt;/p&gt;
-</summary>
       
     
     
